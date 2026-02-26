@@ -1,6 +1,7 @@
-## Hi there 👋
+![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <!--
+## Hi there 👋
 **nisshiii/nisshiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
